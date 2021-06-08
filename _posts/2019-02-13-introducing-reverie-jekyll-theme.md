@@ -6,7 +6,7 @@ categories: [Miscellaneous, Jekyll]
 
 The Los Angeles Metro Rail is an urban rail transportation system serving Los Angeles County, California. It consists of six lines, including two rapid transit subway lines (the Red and Purple lines) and four light rail lines (the Blue, Green, Gold and Expo lines) serving 93 stations. It connects with the Metro Busway bus rapid transit system (the Orange Line and Silver Line) and also with the Metrolink commuter rail system.
 
-![](/images/reverie-demo.png)
+![Alt text](https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg "San Francisco Market Street")
 
 ## What is the Metrolink train system ?
 
