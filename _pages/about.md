@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+We teach photographic basics online via Zoom for all beginners. Learn to use 
+any Canon/Nikon DSLR or Iphone. For more details, email us at photosafari@inbox.com
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+We offer small group & individual photo tours assure customized and hands on instruction, 
+Our photo tours and workshops are open to all beginners or advanced photographers.
 
-## Features
+## Photography Workshop Locations
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
