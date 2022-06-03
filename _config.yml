@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: USA Photo Safaris - Photo Sightseeing Tours
 
 # Name of the author
-author: Amit Merchant
+author: Elle G
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Sightseeing & walking photo walks of USA Cities, NYC, San Francisco
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -46,10 +46,10 @@ google_analytics: UA-43339302-11
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Your website URL (http://usaphotosafaris.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://www.usaphotosafaris.com/reverie
+enforce_ssl: https://www.usaphotosafaris.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
